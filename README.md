@@ -2,13 +2,12 @@
 
 ### 목차
 
-[산출물](https://github.com/ddung1203/Database_Project/blob/main/Outputs.md)
-
 1. **Problem Description**
 2. **프로젝트 구현 범위**
 3. **개발 언어 및 환경**
 4. **전체 시스템 아키텍처**
 5. **주요 개발 내용**
+6. [**산출물**](https://github.com/ddung1203/Database_Project/blob/main/Outputs.md)
 
 ### 1. Problem Description
 
